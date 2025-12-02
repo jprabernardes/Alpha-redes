@@ -14,8 +14,8 @@ Olá, me chamo João Paulo. Sou aspirante da Turma 7 da Alpha EdTech e estou em 
 
 
 ---
-
-# 🛜 Resumo do Módulo de Redes e Internet 🛜
+<details>
+<summary><strong>🛜 Módulo de Redes</strong> (clique para expandir)</summary>
 
 ## 1. DNS (Domain Name System)
 ### Introdução
@@ -181,3 +181,47 @@ A infraestrutura pode ser local ou baseada em nuvem, cada uma com responsabilida
 - Escalabilidade e redundância
 
 ---
+</details>
+
+<details>
+<summary><strong>🐙 Git e GitHub</strong> (clique para expandir)</summary>
+
+### **Resumo Geral**
+Aprendi como controlar versões, trabalhar com branches, colaborar em projetos e usar GitHub como plataforma de hospedagem e revisão.
+
+### **Principais Tópicos Estudados**
+- Repositórios locais e remotos  
+- `git add`, `commit`, `push`, `pull`  
+- Branches e merges  
+- Resolução de conflitos  
+- Pull Requests e revisões de código  
+- GitHub Pages  
+- Tags, releases e histórico de commits  
+- SSH Keys e autenticação  
+- Boas práticas de fluxo de trabalho  
+  - *Feature Branch Workflow*  
+  - GitFlow  
+
+</details>
+
+<details>
+<summary><strong>💬 Soft Skills</strong> (clique para expandir)</summary>
+
+### **Resumo Geral**
+Soft skills são essenciais para atuar de forma profissional, colaborativa e resiliente na área de tecnologia.
+
+### **Principais Competências Estudadas**
+- Comunicação assertiva  
+- Trabalho em equipe  
+- Feedback eficiente (dar e receber)  
+- Comunicação não verbal
+
+</details>
+
+---
+
+## Autor
+João Paulo Romualdo Alarcão Bernardes
+
+## 🔗 Meu GitHub
+[**Visitar meu GitHub**](https://github.com/jprabernardes/)
