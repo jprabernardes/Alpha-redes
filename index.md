@@ -10,7 +10,7 @@ Olá, me chamo João Paulo. Sou aspirante da Turma 7 da Alpha EdTech e estou em 
 - Felipe Ozias
 - Flavia Caçapava Lorenzi
 
-###E um agradecimento aos mentores e a toda equipe da Alpha!
+### E um agradecimento aos mentores e a toda equipe da Alpha!
 
 
 ---
