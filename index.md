@@ -1,4 +1,4 @@
-<h1>Minha jornada Alpha Edtech</h1>
+<h1>🚀Minha jornada Alpha Edtech🚀</h1>
 
 Olá, me chamo João Paulo. Sou aspirante da Turma 7 da Alpha EdTech e estou em processo de aprendizagem na área de tecnologia atráves do Curso fornecido pela Alpha. Este documento reúne um resumo organizado dos principais temas abordados até o presente momento. O objetivo desse documento é consolidar o aprendizado e servir como material de referência para estudos futuros.
 
