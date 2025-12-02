@@ -1,7 +1,3 @@
----
-title: "Minha Jornada na Alpha EdTech"
----
-
 # Minha Jornada na Alpha EdTech
 
 Olá, me chamo João Paulo. Sou aspirante da Turma 7 da Alpha EdTech e estou em processo de aprendizagem na área de tecnologia atráves do Curso fornecido pela Alpha. Este documento reúne um resumo organizado dos principais temas abordados até o presente momento. O objetivo desse documento é consolidar o aprendizado e servir como material de referência para estudos futuros.
@@ -18,10 +14,7 @@ Olá, me chamo João Paulo. Sou aspirante da Turma 7 da Alpha EdTech e estou em 
 
 
 ---
-<details>
-<summary><strong>🛜 Módulo de Redes</strong> (clique para expandir)</summary>
-
-<br>
+## 🛜 Módulo de Redes
 
 ## 1. DNS (Domain Name System)
 ### Introdução
@@ -187,12 +180,7 @@ A infraestrutura pode ser local ou baseada em nuvem, cada uma com responsabilida
 - Escalabilidade e redundância
 
 ---
-</details>
-
-<details>
-<summary><strong>🐙 Git e GitHub</strong> (clique para expandir)</summary>
-
-<br>
+## 🐙 Git e GitHub
 
 ### **Resumo Geral**
 Aprendi como controlar versões, trabalhar com branches, colaborar em projetos e usar GitHub como plataforma de hospedagem e revisão.
@@ -210,12 +198,7 @@ Aprendi como controlar versões, trabalhar com branches, colaborar em projetos e
   - *Feature Branch Workflow*  
   - GitFlow  
 
-</details>
-
-<details>
-<summary><strong>💬 Soft Skills</strong> (clique para expandir)</summary>
-
-<br>
+## 💬 Soft Skills
 
 ### **Resumo Geral**
 Soft skills são essenciais para atuar de forma profissional, colaborativa e resiliente na área de tecnologia.
@@ -225,8 +208,6 @@ Soft skills são essenciais para atuar de forma profissional, colaborativa e res
 - Trabalho em equipe  
 - Feedback eficiente (dar e receber)  
 - Comunicação não verbal
-
-</details>
 
 ---
 
